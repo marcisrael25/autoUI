@@ -1,4 +1,4 @@
-# 🚀 AutoUI v12.0 Enterprise Suite
+# 🚀 AutoUI v1.0 Enterprise Suite
 
 > Un framework UI moderne, léger et autonome basé sur les **Web Components natifs** et le **Shadow DOM**. Sans dépendance externe.
 
